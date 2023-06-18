@@ -8,4 +8,6 @@ The train data consist in 60 000 images and are in the input folder.
 
 We will build multiple models
 - OneHot Encoding LogisticRegression
-- xgboost 
+- xgboost
+
+## data cleaning
